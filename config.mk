@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # dmenu version
 VERSION = 5.0
 
